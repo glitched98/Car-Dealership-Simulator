@@ -1,0 +1,30 @@
+Toyota     blue   SEDAN   GAS_ENGINE      9.5  500 2WD 25000
+Honda      red    SPORTS  GAS_ENGINE      9.2  450 2WD 30000
+Kia        white  MINIVAN GAS_ENGINE      9.7  550 2WD 20000
+BMW        black  SEDAN   GAS_ENGINE      9.6  600 AWD 55000
+Tesla      red    SEDAN   ELECTRIC_MOTOR  9.1  425 AWD 85000  30
+Chevy      red    MINIVAN GAS_ENGINE      9.25 475 2WD 40000
+ChevyVolt  green  SEDAN   ELECTRIC_MOTOR  8.9  375 AWD 37000  45
+Bentley    black  SEDAN   GAS_ENGINE      9.8  575 2WD 150000
+NissanLeaf green  SEDAN   ELECTRIC_MOTOR  8.8  325 AWD 32000  55
+Kia        black  SEDAN   GAS_ENGINE      8.5  738 2WD 111711    
+Mercedes   brown  SPORTS  ELECTRIC_MOTOR  7.5  752 2WD 71945  56  
+Kia        black  MINIVAN ELECTRIC_MOTOR  5.5  809 2WD 48740  23  
+Acura      silver SPORTS  ELECTRIC_MOTOR  7.5  579 2WD 51759  49  
+Lexus      grey   SPORTS  GAS_ENGINE      8.2  697 AWD 116266    
+Acura      green  SPORTS  GAS_ENGINE      6.2  885 AWD 62871    
+Mazda      black  SEDAN   GAS_ENGINE      9.6  458 AWD 98362    
+Kia        white  SEDAN   GAS_ENGINE      5.5  432 AWD 71396    
+Audi       blue   SEDAN   GAS_ENGINE      6.6  790 2WD 117644    
+Chevy      silver SPORTS  GAS_ENGINE      5.3  751 2WD 92391    
+Porsche    brown  SPORTS  GAS_ENGINE      8.1  872 AWD 75237    
+Lexus      blue   MINIVAN ELECTRIC_MOTOR  8.1  448 AWD 103898 70  
+Mercedes   green  SEDAN   GAS_ENGINE      8.5  439 AWD 124875    
+Hyundai    brown  SPORTS  ELECTRIC_MOTOR  5.3  863 AWD 77913  88  
+Porsche    yellow MINIVAN GAS_ENGINE      7.5  401 2WD 72653  
+BMW        blue   SEDAN   ELECTRIC_MOTOR  7.5  331 AWD 65810  39  
+Porsche    green  SEDAN   ELECTRIC_MOTOR  8.4  357 2WD 121717 32  
+Honda      brown  MINIVAN ELECTRIC_MOTOR  5.3  522 2WD 31923  48  
+Mazda      grey   MINIVAN GAS_ENGINE      9.7  817 2WD 34019    
+Porsche    yellow MINIVAN GAS_ENGINE      9.7  496 AWD 83860 
+Nissan     green  SEDAN   ELECTRIC_MOTOR  5.8  868 2WD 124884 95
